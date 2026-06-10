@@ -1,0 +1,7 @@
+path: /Users/ghofranemerhbene/Work/HACK-IA/hackia/D-Fire
+train: images/train
+val: images/valid
+test: images/test
+names:
+  0: smoke
+  1: fire
